@@ -1,6 +1,5 @@
 {
     "name": "Espers",
     "symbol": "ESP",
-    "algorithm": "hmq1725",
-    "mposDiffMultiplier": 256
+    "algorithm": "hmq1725"
 }
